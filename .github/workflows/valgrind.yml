@@ -20,5 +20,4 @@ jobs:
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: make test
       run: |
-        g++ perfor.cpp 
-        valgrind ./all.out
+       valgrind chmod 777 ./source/all.out 
