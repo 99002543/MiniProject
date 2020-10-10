@@ -17,4 +17,4 @@ jobs:
     - name: Install Cunit
       run: sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: prfor
-      run:  g++ test.cpp 
+      run:  g++ souce
