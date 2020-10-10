@@ -36,11 +36,11 @@ void perfor::get_data()
     int row_count =0 ;
     while(getline(data,line))
     {
-        row_count +=1;
+        
 
       //  std::stringstream  lineStream(line);
         std::string        cell;
-        int column_count = 0 ;
+ 
 	vector<string> dat = make_data(line);
 	//std::cout<<dat[2]<<endl;
 	datal.push_back(base(dat[0],dat[1],dat[2],dat[3],dat[4]));
