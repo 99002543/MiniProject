@@ -21,4 +21,4 @@ jobs:
     - name: make test
       run: |
         g++ perfor.cpp 
-        valgrind ./a.out
+        valgrind ./all.out
