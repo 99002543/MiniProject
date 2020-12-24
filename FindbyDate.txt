@@ -1,0 +1,7 @@
+Date2019-10-18
+Opening Market Rate   1577
+Closing Market Rate   1639.150024
+Highest Price of the Day   1658
+Lowest Price of the day   1622
+Stocks Sold and Buyed   84132
+Approximate turn over of LTTS   1.91327e+08
